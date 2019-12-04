@@ -1,0 +1,32 @@
+body{
+    background-color:rgba(0,0,0,0.20);}
+.black{
+     width:1325px;
+     height:60px;
+     background-color:rgb(139, 145, 153);
+     margin-right:auto;
+     margin-left:auto;}
+.white{
+     color: white;
+     display:inline;
+     padding:10px 40px 10px 40px;
+     font-size:30px;
+     position:relative;
+     top:10px;
+     text-align:center;
+     left:365px;
+     text-decoration:none;
+     text-transform:uppercase;}
+.logo{
+     text-align:center;
+     background-color:rgba(250,250,250,0.55);}
+td{
+   border-style:solid;
+   border-color:rgba(250,250,250,0.55);
+   background-color:rgba(250,250,250,0.55);
+   text-transform:uppercase;
+   font-size:15px;}
+.title{
+      text-align:center;
+      font-weight:bold;
+      font-size:20px;}

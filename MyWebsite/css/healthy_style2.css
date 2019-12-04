@@ -1,0 +1,31 @@
+body{
+    background-color:rgba(0,0,0,0.20);}
+.black{
+     width:1325px;
+     height:60px;
+     background-color:rgb(139, 145, 153);
+     margin-right:auto;
+     margin-left:auto;}
+.white{
+     color: white;
+     display:inline;
+     padding:10px 40px 10px 40px;
+     font-size:30px;
+     position:relative;
+     top:10px;
+     text-align:center;
+     left:475px;
+     text-decoration:none;
+     text-transform:uppercase;}
+.logo{
+     text-align:center;
+     background-color:rgba(250,250,250,0.55);}
+h1{
+   text-align:center;}
+.main{
+     background-color:rgba(250,250,250,0.55);}
+p{
+  font-family:Georgia;
+  line-spacing:20px;}
+h2{
+  font-family:Candara;}
